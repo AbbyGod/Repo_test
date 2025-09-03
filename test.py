@@ -23,4 +23,4 @@ while True: #this loop is to contineously ask user for input
         print("Goodbye!")
         break
     else: #to store user bad inputs
-        print("Invalid choice, try again.")
+        print("Invalid choice, try again, please....")
